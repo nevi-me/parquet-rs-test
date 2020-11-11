@@ -5,5 +5,4 @@ authors = ["Michael Spector <spektom@gmail.com>"]
 edition = "2018"
 
 [dependencies]
-parquet = "1.0.1"
-parquet-format = "2.6.1"
+parquet = "2.0.0"
